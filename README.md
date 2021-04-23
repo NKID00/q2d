@@ -2,11 +2,6 @@
 
 切换 QWERTY 布局为 Dvorak 布局
 
-## 下载 ##
-* [ANSI 32bit](https://github.com/tiansh/q2d/raw/master/Qwerty2Dvorak-ansi32.zip)
-* [Unicode 32bit](https://github.com/tiansh/q2d/raw/master/Qwerty2Dvorak-unicode32.zip)
-* [Unicode 64bit](https://github.com/tiansh/q2d/raw/master/Qwerty2Dvorak-unicode64.zip)
-
 ## 简介 ##
 
 虽然 Windows 提供了 Dvorak 键盘布局，但是不支持同时打开输入法。<br />
@@ -22,6 +17,8 @@ Dvorak 状态时按住 LWin 键会临时切换为 QWERTY ，松开时切换回 D
 Dvorak 状态时连按两次 LWin 键会切换为 QWERTY ；<br />
 QWERTY 状态是按 LWin 键会切换回 Dvorak。<br />
 LWin 键和 Space 键组合时保持原意，其他时候请使用 RWin 代替。
+
+简化版本去除了快捷键切换功能。
 
 ## 其他 ##
 
