@@ -37,6 +37,11 @@ MenuSuspend:
     }
     return
 
+LAlt & `::
+  Suspend Permit
+  Gosub, MenuSuspend
+  Return,
+
 -::[
 =::]
 q::'
